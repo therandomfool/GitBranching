@@ -7,6 +7,7 @@
 
 * `git log` -Log of commits in this repo
 * `git log --oneline` -Compact log listing
+* `git branch` - display branch information
 
 ### Basic Commands
 * `git init` - Initialize a repo in a current working directory
