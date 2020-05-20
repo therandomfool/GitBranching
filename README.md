@@ -17,5 +17,6 @@
 
 
 ### Branching Commands
-`git branch branchName` - Create branch 'branchname'
+* `git branch branchName` - Create branch 'branchname'
 * `git checkout branchName` - go to branch `branchName`
+* `git checkout -b branchName` - Create and check out `branchName`
