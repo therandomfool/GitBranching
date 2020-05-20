@@ -6,4 +6,10 @@
 * `git config -l` -List of configuration of repo
 
 * `git log` -Log of commits in this repo
-* `git log --online` -Compact lof listing
+* `git log --oneline` -Compact log listing
+
+### Basic Commands
+* `git init` - Initialize a repo in a current working directory
+* `git add .` - Stage current directory for commits
+* `git commit -m "stuff"` - Committ staged data with message "stuff"
+* `git commit` - Commit staged data enter messae in vi editor
