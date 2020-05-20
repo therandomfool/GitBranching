@@ -20,3 +20,4 @@
 * `git branch branchName` - Create branch 'branchname'
 * `git checkout branchName` - go to branch `branchName`
 * `git checkout -b branchName` - Create and check out `branchName`
+* `git oull origin master` - pull `master` branch into current branchName
